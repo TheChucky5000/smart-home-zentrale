@@ -1,6 +1,6 @@
 {
-  "version": "6.3",
-   "notes": "Fehlerbehebung: Tankstellen-Statussensoren (geöffnet/geschlossen) gelten nicht mehr als Tür/Fenster und erscheinen jetzt im Tankstellen-Bereich.",
+  "version": "6.4",
+   "notes": "Tankstellen-Statussensoren werden jetzt zuverlässig erkannt: Das Programm lernt die Stationsnamen aus den Preissensoren und ordnet Status-Sensoren (z. B. 'ARAL ... Status') automatisch der Tankstelle zu statt Tür & Fenster.",
   "exe_url": "https://github.com/TheChucky5000/smart-home-zentrale/releases/latest/download/SmartHomeZentrale.exe",
   "script_url": "https://raw.githubusercontent.com/TheChucky5000/smart-home-zentrale/main/smart_home_zentrale.py"
 }
