@@ -1,6 +1,6 @@
 {
-  "version": "6.2",
-   "notes": "Fehlerbehebung: leere/eingeklappte Karten in allen Bereichen. Übersicht, Statusleiste und Benachrichtigungen ignorieren jetzt ausgeblendete Geräte.",
+  "version": "6.3",
+   "notes": "Fehlerbehebung: Tankstellen-Statussensoren (geöffnet/geschlossen) gelten nicht mehr als Tür/Fenster und erscheinen jetzt im Tankstellen-Bereich.",
   "exe_url": "https://github.com/TheChucky5000/smart-home-zentrale/releases/latest/download/SmartHomeZentrale.exe",
   "script_url": "https://raw.githubusercontent.com/TheChucky5000/smart-home-zentrale/main/smart_home_zentrale.py"
 }
