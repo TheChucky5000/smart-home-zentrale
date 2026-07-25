@@ -1,6 +1,6 @@
 {
   "version": "6.0",
-  "notes": "Neue Funktionen" – und eins, sobald sie wieder steht. Beides landet auch im Protokoll.",
+   "notes": "Neues Design mit Seitenleiste, eingebauter Updater, Installer, Heizungs-Schnellverstellung, Fenster-offen-Warnung und mehr.",
   "exe_url": "https://github.com/TheChucky5000/smart-home-zentrale/releases/latest/download/SmartHomeZentrale.exe",
   "script_url": "https://raw.githubusercontent.com/TheChucky5000/smart-home-zentrale/main/smart_home_zentrale.py"
 }
