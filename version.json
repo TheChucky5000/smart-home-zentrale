@@ -1,6 +1,16 @@
 {
-  "version": "5.0",
-  "notes": "Neues Design mit Seitenleiste, eingebauter Updater, Installer, Heizungs-Schnellverstellung, Fenster-offen-Warnung und mehr.",
+  "version": "6.0",
+  "notes": "🏡 Übersicht (Dashboard): Ein neuer erster Bereich in der Seitenleiste, der dir alles Wichtige auf einen Blick zeigt: Kacheln für Lichter (wie viele an), offene Türen/Fenster (mit Namen, rot markiert), den Status all deiner Schlösser, aktuelle Gesamtleistung samt Tageskosten, die günstigste Tankstelle, die niedrigste Batterie im Haus (mit Ampelfarben) und das Wetter. Die Schnellaktionen sitzen jetzt auch hier ganz oben.
+
+🏖 Anwesenheitssimulation: Kippschalter in der Übersicht. Aktiviert schaltet das Programm abends zwischen 18 und 23 Uhr in zufälligen Abständen (10–35 Minuten) zufällige Lichter um, damit das Haus im Urlaub bewohnt aussieht. Jede Schaltung landet im Protokoll. Wichtig zu wissen: Das läuft nur, solange der PC an ist – zusammen mit „Minimiert starten" im Tray ist das die perfekte Kombi.
+
+🚪 Nuki „Tür aufziehen": Wenn dein Nuki das Aufziehen der Falle unterstützt (das Programm prüft das automatisch), bekommt die Schloss-Karte einen dritten Knopf – natürlich mit einer deutlichen Sicherheitsabfrage, weil die Tür damit wirklich aufgeht.
+
+💡 Alle Lichter auf einmal: Der Lichter-Bereich hat jetzt eine Kopfzeile mit „Alle an", „Alle aus" und einem Helligkeitsregler, der alle Lampen gleichzeitig dimmt.
+
+📄 CSV-Export: Im Protokoll gibt's einen Export-Knopf – die Datei öffnet sich direkt sauber in Excel (Spalten Zeitpunkt und Ereignis).
+
+📶 Verbindungs-Warnung: Wenn Home Assistant dreimal hintereinander nicht antwortet, bekommst du ein Popup „Verbindung verloren" – und eins, sobald sie wieder steht. Beides landet auch im Protokoll.",
   "exe_url": "https://github.com/TheChucky5000/smart-home-zentrale/releases/latest/download/SmartHomeZentrale.exe",
   "script_url": "https://raw.githubusercontent.com/TheChucky5000/smart-home-zentrale/main/smart_home_zentrale.py"
 }
